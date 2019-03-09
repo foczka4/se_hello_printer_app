@@ -13,4 +13,4 @@ script:
 deploy:
   provider: heroku
   app: boiling-mountain-86458
-  api_key: ${6e38f8ac-de43-4ff3-980d-f4ca141b0b55}
+  api_key: ${HEROKU_API_KEY}
